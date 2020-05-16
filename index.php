@@ -10,7 +10,7 @@
 
 /* Define your token, appid, appsecret here */
 define("TOKEN", "yourtoken");
-define("APPID", "youraddid");
+define("APPID", "yourappid");
 define("APPSECRET", "yourappsecret");
 
 session_start();
